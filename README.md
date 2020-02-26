@@ -8,6 +8,7 @@
 [waver_rui](https://www.luogu.com.cn/user/149678) 
 [Ponder](https://www.luogu.com.cn/user/145164) 
 [tomato_sans](https://www.luogu.com.cn/user/149196) 
+[FattyMarmot666](https://www.luogu.com.cn/user/142582) 
 
 如果代码有锅或你有更好的idea以及优化算法，欢迎Pull requests
 
