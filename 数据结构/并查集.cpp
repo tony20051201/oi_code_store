@@ -1,6 +1,5 @@
 /*
 	Name: 并查集模板 
-	Copyright: None
 	Author: TonyWu
 	Date: 22/02/20 19:53
 	Description:

@@ -1,9 +1,8 @@
 /*
-	Name: ¿ì¶Á¿ìÊäÄ£°å 
-	Copyright: none
+	Name: å¿«è¯»å¿«è¾“æ¨¡æ¿ 
 	Author: waver_rui
 	Date: 22/02/20 19:56
-	Description: ÈçÄãËù¼û£¬Õâ¾ÍÊÇ¸ö ¿ì¶Á¿ìÊäµÄ°å×Ó
+	Description: å¦‚ä½ æ‰€è§ï¼Œè¿™å°±æ˜¯ä¸ª å¿«è¯»å¿«è¾“çš„æ¿å­
 */
 
 #include <bits/stdc++.h>

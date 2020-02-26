@@ -1,9 +1,8 @@
 /*
-	Name: ¿ìËÙÃÝ 
-	Copyright: none
+	Name: å¿«é€Ÿå¹‚ 
 	Author: TonyWu
 	Date: 22/02/20 20:02
-	Description: Çób^p mod k
+	Description: æ±‚b^p mod k
 */
 
 #include <bits/stdc++.h>

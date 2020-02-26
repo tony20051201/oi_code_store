@@ -5,7 +5,7 @@ const int MAXN = 1000 + 10;
 const int MAXV = 1000 + 10;
 int dp[MAXV];
 int v[MAXN], w[MAXN];
-//vÌå»ı w¼ÛÖµ 
+//vä½“ç§¯ wä»·å€¼ 
 int N, V; 
 
 int main()
