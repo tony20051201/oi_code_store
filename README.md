@@ -3,7 +3,7 @@
 
 一天，一名OIER突发奇想，于是就有了这个仓库
 
-目前由ORZ OI Group维护
+目前由OTZ OI Group维护
 
 ### 成员 ###
 
