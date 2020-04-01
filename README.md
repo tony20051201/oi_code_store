@@ -19,3 +19,6 @@
 
 ## 食用指南
 直接clone项目，单个cpp就是一个算法。~~可以拿到luogu等OJ上提交。~~
+
+## 友链
+[bjq代码仓库](https://github.com/bjq2007/CppCodes)
